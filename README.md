@@ -35,18 +35,17 @@ Entre los resultados más destacados del análisis EDA se encuentran los siguien
   6. Se tomaron los delitos de Violencia familiar y violacíón debido al punto explicado anteriormente y se identifica con el mapa de calor la concentración de estos dos delitos en la amg y en cada uno de los centros de los municipios, dando lugar a que este tipo de delito se comente en la mayor parte del Estado de Jalisco.
   7. Se identifico las colonias de Oblatos y Zona Centro con mayor registro de delitos de violencia familiar en el municipio de Guadalajara.
   
- 
+### Comentarios finales
+El presente trabajo tuvo como objetivo promover una sugerencia como punto de partida para la recopilación, organización, limpieza, procesamiento, sistematización y visualización de los datos; permitiendo la identificación, mapeo y georreferenciación de los delitos (Violencia familiar, robo a vehículos, robo a personas, abuso sexual infantil, entre otros) y cuestionarse si realemte existe un impacto positivo por reducir la inseguridad en el estado, debido a que la estrategia de seguridad carece de políticas, de planeación sobre el modelo policial y de reflexión ante el avance del crimen organizado en el control del territorio jalisciense. Lo realmente grato de todos estos estudios es saber que estos temas son del interés de  grandes investigadores. Y, aunque algunos nos son determinantes para definir las causas  delictivas, sí que son una buena herramienta para tomar decisiones y distribuir de forma  adecuada los ingresos que se destinan al combate del crimen con base a programas integrales para prevenir, atender y sancionar a quienes cometen delitos. Academicos insisten en la idea de programas académicos que ofrezcan un cambio de perspectiva, para generar constructores de paz y seguridad que coordinen lo público, lo privado, la academia, con mirada histórica, internacionalista e integral.
   
-  
-  
-  
-  
-![](C:/Users/eduri/OneDrive/Documents/Semestre IV/DPII/Imagenes_EDA/Tipo_delitos.png)
-  
-  
-  
-![](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized-large.gif)
+ ## Referencias
++ https://www.udg.mx/es/noticia/politica-de-seguridad-en-jalisco-entre-la-violencia-endemica-y-la-sumision-al-crimen#:~:text=En%20el%20periodo%20de%202015,primer%20lugar%20en%20el%20pa%C3%ADs.
 
-Source: [Giphy](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized-large.gif)
-  
++ BECKER, Gary. S. 1968. Crime and Punishment: An Economic Approach. Journal of Political Economy. Reprinted in Chicago Studies in Political Economy, edited by G.J.Stigler. Chicago and London: The University of Chicago Press, 1988.
+
++ https://iieg.gob.mx/ns/page_id=22174#:~:text=De%20acuerdo%20con%20el%20Secretariado,Fiscal%C3%ADas%20Generales%20de%20las%20entidades
+
++ Rock, Paul (1997), “Sociological Theories of Crime”, en Mike Maguire, Rod Morgan y Robert Reiner (eds.), The Oxford Handbook of Criminology, Oxford, Oxford University Press. 
+
++ Jessop, Bob (2006), “Political Economy”, en S. Bryan Turner (ed.), The Cambridge Disctionary of Sociology, Nueva York, Cambridge University Press.
   
