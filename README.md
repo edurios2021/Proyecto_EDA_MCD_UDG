@@ -49,7 +49,7 @@ El presente trabajo tuvo como objetivo promover una sugerencia como punto de par
 
 + Jessop, Bob (2006), “Political Economy”, en S. Bryan Turner (ed.), The Cambridge Disctionary of Sociology, Nueva York, Cambridge University Press.
  
-![](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized-large.gif)
+![](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized.gif)
 [fuente:GIPHY](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized.gif)
 
 
