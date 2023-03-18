@@ -48,4 +48,13 @@ El presente trabajo tuvo como objetivo promover una sugerencia como punto de par
 + Rock, Paul (1997), “Sociological Theories of Crime”, en Mike Maguire, Rod Morgan y Robert Reiner (eds.), The Oxford Handbook of Criminology, Oxford, Oxford University Press. 
 
 + Jessop, Bob (2006), “Political Economy”, en S. Bryan Turner (ed.), The Cambridge Disctionary of Sociology, Nueva York, Cambridge University Press.
-  
+ 
+![](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized-large.gif)
+[fuente:GIPHY](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized-large.gif)
+
+
+<br>
+Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
+
+![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/actividades/img/MCD_logo.png)
+
