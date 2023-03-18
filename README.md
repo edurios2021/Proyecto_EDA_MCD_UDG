@@ -1,11 +1,12 @@
 # Análisis Exploratorio de datos - Inseguridad en Jalisco (2019 - 2023)
 
-Ver el siguiente enlace ["Jupyter Notebook"](https://github.dev/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/src/Inseguridad_Jalisco.ipynb)
-
 ![](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized.gif)
   
   [fuente:GIPHY](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized.gif)
 
++ Ver el siguiente enlance para ver el análisis completo ["Análisis EDA completo"](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/src/Delitos_Jalisco_EDA.ipynb)
++ Descargar el código del trabajo  [Código Jupyter Notebook"](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/src/Delitos_Jalisco_EDA.ipynb)
+  
 ### Introducción y descripcíón del proyecto
 <div style="text-align: justify"> La percepción que tienen los jalisciences acerca de la seguridad en Jalisco discrepa con los datos según una nota del periodico el Informador (Lomeli, J., 2023).  Esto no quiere decir que los datos del gobierno sean poco confiables o estén equivocados, si no que depende de la interpretación y objetivos a los que se desea llegar. Existe una amplia relación entre la economía y el crimen, y es por ese interés de realizar un analisis exploratorio y profundo sobre los delitos cometidos en el estado de Jalisco durante el periodo de 2019 hasta el mes de febrero 2023 a nivel municipal y colonia.
   
