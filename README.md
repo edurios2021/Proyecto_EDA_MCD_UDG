@@ -33,30 +33,29 @@ Ver el siguiente enlace ["Jupyter Notebook"](https://github.dev/edurios2021/Proy
   
 ### Resumen de resultados 
 Entre los resultados más destacados del análisis EDA se encuentran los siguientes puntos:
-  1. Existe una reducción de los delitos totales en 2020 (por mitigación de la pandemia) y después del segundo semestre del 2020 hay una ligera alza que se ha mantenido durante los otros próximos dos años.
-  2.  Los delitos que mayormente se cometieron durante el periodo analizado fue: Robo de vehículos, Violencia Familiar y el robo a personas y negocios
-    
-  ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/img/Tipo_delitos.png)
   
-  3. Se observa que la mayoria de los delitos se han cometido en la zona metropolitana de Guadalajara por encima de los otros municipios, sin embargo llama la atención que el delito de abuso sexual infantil el resto de los municipios se encuentrán por encima del área metropolitana de Guadalajara (una posible causa se puede deber a que en cierto municipios todavía existe el matrimonio de adultos con menores de edad).
-    
-  ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/img/Relacion.png)
-    
-  4. Los delitos frecuentemente se cometieron durante los primeros dias de inicio de la semana (lunes y martes) en un horario aproximadamente de la madrugada (12:00 a.m) y por la noche.
-   
-  ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/img/horario.png)
-   
-  5. Si existe una reducción en los delitos que son ocasioados a bienes patrimoniales como el robo a vehículos, homocidios, feminicidios sin embargo en temas de Violación, Violencia Familiar, Abuso sexual a menores, lesiones dolosas (afectaciones de integridad personal y sexual).
-    
-  6. Se tomaron los delitos de Violencia familiar y violacíón debido al punto explicado anteriormente y se identifica con el mapa de calor la concentración de estos dos delitos en la amg y en cada uno de los centros de los municipios, dando lugar a que este tipo de delito se comente en la mayor parte del Estado de Jalisco.
-      
-  ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/img/mapa_calor.png)
-    
-  7. Se identifico las colonias de Oblatos y Zona Centro con mayor registro de delitos de violencia familiar en el municipio de Guadalajara.
+  1.Los delitos totales presentan una reducción significativa en el año 2020 (mitigación de la pandemia) y después del segundo semestre del año 2020 se observa una ligera alza que se ha mantenido durante los próximos dos años.
   
-  ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/img/abuso_sexual.png)
-
-  ### Comentarios finales
+  2.  El Robo de vehículos, la violencia Familiar y el robo a personas/negocios fueron los delitos que más se cometieron durante el período de análisis. 
+    ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/results/img/Tipo_delitos.png)
+  
+  3. La mayoría de los delitos se cometieron dentro de la zona metropolitana de Guadalajara a excepción del abuso sexual infantil que registra mayor cantidad de delitos sobre el AMG (una posible causa se puede deber a que en cierto municipios todavía existe el matrimonio de adultos con menores de edad o estados que practican el delito de trata de niños).
+     
+     ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/results/img/Relacion.png)
+  
+  4. Los delitos frecuentemente son cometidos frecuentemente a inicios de semana (lunes y martes) y en un horarios aproximadamente de la madrugada.
+  
+ 5. Si bien hay una reducción en los delitos a bienes patrimoniales como lo son el robo a vehículos, negocios, pertenencias y otros como homocidios y feminicidios, se presenta un aumento en los detlitos que afectan la integridad personal y sexual (**Violencia familiar, Violación, lesiones dolosas y abuso sexual infantil**.
+ 
+ ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/results/img/historico_delitos.png)
+ 
+  6. Los delitosde Violencia familiar y violacion se concentran en la mayor parte de la ZMG y alrededores, dando pie a que el delito se comete en una gran parte urbana del Estado de Jalisco 
+ 
+  7. Puerto Vallarta es el municipio fuera de la ZMG que presenta mayores capretas de investgación por el delito de abuso sexual infantil
+  
+  ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/results/img/abuso_sexual.png)
+  
+ ### Comentarios finales
 El presente trabajo tuvo como objetivo promover una sugerencia como punto de partida para la recopilación, organización, limpieza, procesamiento, sistematización y visualización de los datos; permitiendo la identificación, mapeo y georreferenciación de los delitos (Violencia familiar, robo a vehículos, robo a personas, abuso sexual infantil, entre otros) y cuestionarse si realemte existe un impacto positivo por reducir la inseguridad en el estado, debido a que la estrategia de seguridad carece de políticas, de planeación sobre el modelo policial y de reflexión ante el avance del crimen organizado en el control del territorio jalisciense. Lo realmente grato de todos estos estudios es saber que estos temas son del interés de  grandes investigadores. Y, aunque algunos nos son determinantes para definir las causas  delictivas, sí que son una buena herramienta para tomar decisiones y distribuir de forma  adecuada los ingresos que se destinan al combate del crimen con base a programas integrales para prevenir, atender y sancionar a quienes cometen delitos. Academicos insisten en la idea de programas académicos que ofrezcan un cambio de perspectiva, para generar constructores de paz y seguridad que coordinen lo público, lo privado, la academia, con mirada histórica, internacionalista e integral.
   
  ## Referencias
