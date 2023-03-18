@@ -4,7 +4,7 @@
   
   [fuente:GIPHY](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized.gif)
 
-+ Ver el siguiente enlance para ver el análisis completo ["Análisis EDA completo"](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/src/Delitos_Jalisco_EDA.ipynb)
++ Ver el siguiente enlance para ver el análisis completo ["Análisis EDA completo"](https://github.dev/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/src/Delitos_Jalisco_EDA.ipynb)
 + Descargar el código del trabajo  [Código Jupyter Notebook"](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/src/Delitos_Jalisco_EDA.ipynb)
   
 ### Introducción y descripcíón del proyecto
