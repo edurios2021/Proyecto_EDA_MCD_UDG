@@ -33,6 +33,8 @@
 Entre los resultados más destacados del análisis EDA se encuentran los siguientes puntos:
   1. Existe una reducción de los delitos totales en 2020 (por mitigación de la pandemia) y después del segundo semestre del 2020 hay una ligera alza que se ha mantenido durante los otros próximos dos años.
   2.  Los delitos que mayormente se cometieron durante el periodo analizado fue: Robo de vehículos, Violencia Familiar y el robo a personas y negocios
+  ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/img/Tipo_delitos.png)
+  
   3. Se observa que la mayoria de los delitos se han cometido en la zona metropolitana de Guadalajara por encima de los otros municipios, sin embargo llama la atención que el delito de abuso sexual infantil el resto de los municipios se encuentrán por encima del área metropolitana de Guadalajara (una posible causa se puede deber a que en cierto municipios todavía existe el matrimonio de adultos con menores de edad).
   4. Los delitos frecuentemente se cometieron durante los primeros dias de inicio de la semana (lunes y martes) en un horario aproximadamente de la madrugada (12:00 a.m) y por la noche.
   5. Si existe una reducción en los delitos que son ocasioados a bienes patrimoniales como el robo a vehículos, homocidios, feminicidios sin embargo en temas de Violación, Violencia Familiar, Abuso sexual a menores, lesiones dolosas (afectaciones de integridad personal y sexual).
