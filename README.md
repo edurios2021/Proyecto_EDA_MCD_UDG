@@ -1,5 +1,9 @@
 # Análisis Exploratorio de datos - Inseguridad en Jalisco (2019 - 2023)
 
+![](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized.gif)
+  
+  [fuente:GIPHY](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized.gif)
+
 ### Introducción y descripcíón del proyecto
 <div style="text-align: justify"> La percepción que tienen los jalisciences acerca de la seguridad en Jalisco discrepa con los datos según una nota del periodico el Informador (Lomeli, J., 2023).  Esto no quiere decir que los datos del gobierno sean poco confiables o estén equivocados, si no que depende de la interpretación y objetivos a los que se desea llegar. Existe una amplia relación entre la economía y el crimen, y es por ese interés de realizar un analisis exploratorio y profundo sobre los delitos cometidos en el estado de Jalisco durante el periodo de 2019 hasta el mes de febrero 2023 a nivel municipal y colonia.
   
@@ -49,8 +53,7 @@ El presente trabajo tuvo como objetivo promover una sugerencia como punto de par
 
 + Jessop, Bob (2006), “Political Economy”, en S. Bryan Turner (ed.), The Cambridge Disctionary of Sociology, Nueva York, Cambridge University Press.
  
-![](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized.gif)
-[fuente:GIPHY](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized.gif)
+
 
 
 <br>
