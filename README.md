@@ -1,6 +1,6 @@
 # Análisis Exploratorio de datos - Inseguridad en Jalisco (2019 - 2023)
 
-Ver el siguiente enlace !["Jupyter Notebook"](https://github.dev/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/src/Inseguridad_Jalisco.ipynb)
+Ver el siguiente enlace ["Jupyter Notebook"](https://github.dev/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/src/Inseguridad_Jalisco.ipynb)
 
 ![](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized.gif)
   
