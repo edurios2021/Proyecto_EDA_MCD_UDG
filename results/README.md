@@ -1,1 +1,1 @@
-# Carpeta con resultados
+# Carpeta con base depurada y resultados
