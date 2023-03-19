@@ -6,7 +6,8 @@
 
 + Ver el siguiente enlance para ver el análisis completo ["Análisis EDA completo"](https://github.dev/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/src/Delitos_Jalisco_EDA.ipynb)
 + Descargar el código del trabajo  [Código Jupyter Notebook"](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/src/Delitos_Jalisco_EDA.ipynb)
-  
++ El enlance de la divulgación del tema, se encuentra en el siguiente link: (https://www.linkedin.com/pulse/inseguridad-en-jalisco-an%25C3%25A1lisis-exploratorio-de-datos-eduardo-rios)
+
 ### Introducción y descripcíón del proyecto
 <div style="text-align: justify"> La percepción que tienen los jalisciences acerca de la seguridad en Jalisco discrepa con los datos según una nota del periodico el Informador (Lomeli, J., 2023).  Esto no quiere decir que los datos del gobierno sean poco confiables o estén equivocados, si no que depende de la interpretación y objetivos a los que se desea llegar. Existe una amplia relación entre la economía y el crimen, y es por ese interés de realizar un analisis exploratorio y profundo sobre los delitos cometidos en el estado de Jalisco durante el periodo de 2019 hasta el mes de febrero 2023 a nivel municipal y colonia.
   
@@ -35,24 +36,26 @@
 ### Resumen de resultados 
 Entre los resultados más destacados del análisis EDA se encuentran los siguientes puntos:
   
-  1.Los delitos totales presentan una reducción significativa en el año 2020 (mitigación de la pandemia) y después del segundo semestre del año 2020 se observa una ligera alza que se ha mantenido durante los próximos dos años.
+  1. Los delitos totales presentan una reducción significativa en el año 2020 (mitigación de la pandemia) y después del segundo semestre del año 2020 se observa una ligera alza que se ha mantenido durante los próximos dos años.
   
-  2.  El Robo de vehículos, la violencia Familiar y el robo a personas/negocios fueron los delitos que más se cometieron durante el período de análisis. 
+  2. El Robo de vehículos, la violencia Familiar y el robo a personas/negocios son los delitos con mayor frecuencia durante 2019 a la actualidad. 
     ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/results/img/Tipo_delitos.png)
   
-  3. La mayoría de los delitos se cometieron dentro de la zona metropolitana de Guadalajara a excepción del abuso sexual infantil que registra mayor cantidad de delitos sobre el AMG (una posible causa se puede deber a que en cierto municipios todavía existe el matrimonio de adultos con menores de edad o estados que practican el delito de trata de niños).
+  3. La mayoría de los delitos se cometieron dentro de la zona metropolitana de Guadalajara a excepción del abuso sexual infantil que es el único delito sobre la zona metropolitana de Guadalajara. (una posible causa se puede deber a que en cierto municipios todavía existe el matrimonio de adultos con menores de edad o estados que practican el delito de trata de niños).
      
      ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/results/img/Relacion.png)
   
   4. Los delitos frecuentemente son cometidos frecuentemente a inicios de semana (lunes y martes) y en un horarios aproximadamente de la madrugada.
   
- 5. Si bien hay una reducción en los delitos a bienes patrimoniales como lo son el robo a vehículos, negocios, pertenencias y otros como homocidios y feminicidios, se presenta un aumento en los detlitos que afectan la integridad personal y sexual (**Violencia familiar, Violación, lesiones dolosas y abuso sexual infantil**.
+ 5. Si bien hay una reducción en los delitos a bienes patrimoniales como lo son el robo a vehículos, negocios, pertenencias y otros como homocidios y feminicidios, se presenta un aumento en los detlitos que afectan la integridad personal y sexual (**Violencia familiar, Violación, lesiones dolosas y abuso sexual infantil**).
  
  ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/results/img/historico_delitos.png)
  
-  6. Los delitosde Violencia familiar y violacion se concentran en la mayor parte de la ZMG y alrededores, dando pie a que el delito se comete en una gran parte urbana del Estado de Jalisco 
+  6. Los delitos de Violencia familiar y violación se concentran en la mayor parte de la ZMG y alrededores, dando pie a que el delito se comete en la mayor parte urbana del Estado de Jalisco.
  
-  7. Puerto Vallarta es el municipio fuera de la ZMG que presenta mayores capretas de investgación por el delito de abuso sexual infantil
+ ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/results/img/mapa_calor.png)
+  
+  7. Puerto Vallarta es el municipio fuera de la ZMG que presenta mayores carpetas de investigación por el delito de abuso sexual infantil
   
   ![](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/results/img/abuso_sexual.png)
   
@@ -70,7 +73,6 @@ El presente trabajo tuvo como objetivo promover una sugerencia como punto de par
 
 + Jessop, Bob (2006), “Political Economy”, en S. Bryan Turner (ed.), The Cambridge Disctionary of Sociology, Nueva York, Cambridge University Press.
  
-
 
 
 <br>
