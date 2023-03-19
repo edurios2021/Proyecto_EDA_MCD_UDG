@@ -4,8 +4,8 @@
   
   [fuente:GIPHY](https://media.giphy.com/media/CCFFPwOK9xbamQksxU/giphy-downsized.gif)
 
-+ Ver el siguiente enlance para ver el análisis completo ["Análisis EDA completo"](https://github.dev/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/src/Delitos_Jalisco_EDA.ipynb)
-+ Descargar el código del trabajo  [Código Jupyter Notebook"](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/src/Delitos_Jalisco_EDA.ipynb)
++ Ver el siguiente enlance para ver el análisis completo realizado ["Análisis EDA completo"](https://github.dev/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/src/EDA_Delitos_Jalisco.ipynb)
++ Descargar el código del trabajo  [Código Jupyter Notebook"](https://github.com/edurios2021/Proyecto_EDA_MCD_UDG/blob/main/src/EDA_Delitos_Jalisco.ipynb)
 + El enlance de la divulgación del tema, se encuentra en el siguiente link: (https://www.linkedin.com/pulse/inseguridad-en-jalisco-an%25C3%25A1lisis-exploratorio-de-datos-eduardo-rios)
 
 ### Introducción y descripcíón del proyecto
